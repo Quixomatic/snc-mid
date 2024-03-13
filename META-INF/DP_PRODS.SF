@@ -1,0 +1,45 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: +fBgN3lT0kUtT1q3MLgY1JiDzUt2T
+ jzprllm5cW/LuM=
+SHA-256-Digest-Manifest: 9wij0A6kScARxKuc3vcyxwaSZBMYBJ6VSYZBPI66nvc=
+Created-By: 1.8.0_312 (Private Build)
+
+Name: asset/validate_signature.sh
+SHA-256-Digest: t/8gRMseDtDSYQH0mrTINUFEev3ph9K44fC4/WtoiFU=
+
+Name: asset/init
+SHA-256-Digest: gyCBSVMLk/4SjOm2srMAEL4BqiSYYQ82bbiC4xiLwEM=
+
+Name: .env
+SHA-256-Digest: 09d7TLViLCoTz50kmX0ul5rmVXlA/a7uMQhJPYW4two=
+
+Name: asset/.container
+SHA-256-Digest: 0x/H6EyG3OfGBQbwSytyX5cJsMlO2Q+7+fKVC2b5Z10=
+
+Name: asset/calculate_mid_env_hash.sh
+SHA-256-Digest: y4q3cbpFW6ayJRWbyXIZo48TbZhjsYs70Kgxl8Qxa2k=
+
+Name: EULA - MID Server.pdf
+SHA-256-Digest: lRA4HwdGabx2xqZ7Ligph6mdtkSMxugPibR4AmmmB0Y=
+
+Name: mid.env
+SHA-256-Digest: e+32FZOvPcr1lJqitwNTeaW5HGRPyepBNOoWkXVkEzs=
+
+Name: Dockerfile
+SHA-256-Digest: bjDZ5acXJaUi1upNplphAVlbdR/RKoSM1Tw60lMMr0A=
+
+Name: asset/post_start.sh
+SHA-256-Digest: W20xuUtG+egrWWqi5gSWnaqzsUmQ3uRt7A9Y8Xh37lE=
+
+Name: asset/pre_stop.sh
+SHA-256-Digest: VECK+If8nvv1Ki3kGqhsw7ZtxT087cJCcFefeoQfXmY=
+
+Name: mid-secrets.properties
+SHA-256-Digest: iRiyNGOcVk+BeWK+dKZp3pw+09Eb3GhlXoEaCkh3vIg=
+
+Name: asset/download.sh
+SHA-256-Digest: UNlt+JnoRaHkSCboz8xmg0iwn2L+uNTg8ixtG4IqtF4=
+
+Name: asset/check_health.sh
+SHA-256-Digest: +utTJqUg1f02gFEBNoOYcBcSJ7uwOpzj1NMMv5EJIgI=
+
